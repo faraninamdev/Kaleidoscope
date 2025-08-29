@@ -35,8 +35,9 @@ __🚀 How to Use:__
 - Click the "Save" button to download your final creation as a PNG image.
 
 __🌐 Live Demo:__
-  
 
+- https://faraninamdev.github.io/Kaleidoscope/
+  
 __📄 License:__
 
 This project is open-source and uses the MIT License.
